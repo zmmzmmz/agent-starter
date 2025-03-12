@@ -1,3 +1,5 @@
 vllm==0.7.3
 openai
 dotenv
+openai-agents
+asyncio
