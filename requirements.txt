@@ -3,3 +3,4 @@ openai
 dotenv
 openai-agents
 asyncio
+autogen-agentchat
