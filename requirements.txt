@@ -4,3 +4,4 @@ dotenv
 openai-agents
 asyncio
 autogen-agentchat
+Pillow
